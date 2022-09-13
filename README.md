@@ -4,8 +4,9 @@
 #### minha é o 1º serie A do novo ensino medio(NEM)
 ##### discoplina de _pensamento computacional_
 
+<<<<<<< HEAD
 
-SORVETERIA GUIMÉLEZ
+**<**h1>SORVETERIA GUIMÉLEZ***<**h1>**
 
         Desde de 2012 trazendo os melhores sorvetes para você.
 
@@ -48,10 +49,3 @@ Copo grande; R$10,00
 Chocolate;                             
 Morango;                               
 Baunilha.
-
-
-
-
-
-
-
